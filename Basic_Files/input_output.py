@@ -27,8 +27,48 @@
 
 # print("Stuent Name is %s, her Roll No is %d and Height is %f " %(Name, Roll_No, Height))
 
-a = 22
-b = 7
-c = a/b
+# a = 22
+# b = 7
+# c = a/b
 
-print(f'Division of{a} and {b} is {c}')
+# print(f'Division of{a} and {b} is {c}')
+
+# age   =     30 
+# a = 5, b = 6,  c = 7 
+# x = y = z = 9
+# x = 9
+# y= 9
+# z = 9
+
+
+# Numerical data types:
+
+# int x = 10
+# float y = 19.5
+# complex = a = b+ib
+
+# Bool - Boolean
+# a = True #1
+# b = False #0 
+
+
+
+# f = 3.14
+# print(f)
+# x = int(f)
+
+# print(x)
+
+
+#Operatios:
+
+a = 15
+b = 4 
+
+
+print(a+b)
+print(a-b)
+print(a/b)
+print(a*b)
+print(a%b)
+
