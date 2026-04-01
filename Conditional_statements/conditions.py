@@ -43,3 +43,7 @@ elif(i == 20):
     print("i is 20")
 else:
     print("i is 20")
+
+
+## short hand, switch statements: >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+

@@ -62,13 +62,15 @@
 
 #Operatios:
 
-a = 15
-b = 4 
+# a = 15
+# b = 4 
+
+# print(a+b)
+# print(a-b)
+# print(a/b)
+# print(a*b)
+# print(a%b)
 
 
-print(a+b)
-print(a-b)
-print(a/b)
-print(a*b)
-print(a%b)
+
 
