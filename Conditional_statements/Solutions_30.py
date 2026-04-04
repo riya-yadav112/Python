@@ -13,17 +13,17 @@
 #conditional statement practice question
 
 
-#Q.5 Voting eligiblity
-'''age =  16
+#Q5 <<<<<<<<<<<<<<<<< Voting eligiblity >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+age =  16
 if age > 18:
     print("The person can  vote")
 
-elif  age < 18:
-    print("The person is not not eligible")'''
+else:
+    print("The person is not not eligible")
 
 # Q.3 <<<<<<<<<<<<<<<<< Largest of 2 number  >>>>>>>>>>>>>>>>>>>>>>>
 
-
+""" 
 a = input("Enter your first value:")
 b = input("Enter your second value: ")
 # using if & else conditional statement compare which one is greater
@@ -35,7 +35,7 @@ elif (a<b):
 else:
     print("Both are equal")
     
-
+"""
 #Q.2 <<<<<<<<<<<<<<<<<<<<< Even or odd >>>>>>>>>>>>>>>>>>>>>>>
 # val1 = int(input("Enter a number :"))
 
