@@ -1,3 +1,10 @@
+
+# important:
+
+# range(start, stop, step):
+
+
+
 """ 
 << Typs of loop - 
  1. For Loop
