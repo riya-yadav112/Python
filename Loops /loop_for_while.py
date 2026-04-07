@@ -145,7 +145,7 @@ else:
 num2 = int(input("Enter 2 number as input:\n"))
 num3 = int(input("Enter 3 number as input:\n"))
 
-if num1>= num2 and num1 >= 3:
+if num1>= num2 and num1 >= num3:
     print("Largest number is:",num1)
 elif num2>=num1 and num2>= num3:
     print("The largest number is:",num2)
@@ -174,7 +174,7 @@ else:
 #<<<<<<<<<<<LOOPS (FOR/WHILE)>>>>>>>>>>>>
 #Q.1 PRINT NUMBER 1 TO 20 USING LOOP:
 #for 
-"""i = 1
+"""
 for i in range(1,21):
     print(i)"""
 
@@ -209,7 +209,6 @@ i = 1
 while(i<= 10):
     print(n*i)
     i += 1"""
-
 
 
 
